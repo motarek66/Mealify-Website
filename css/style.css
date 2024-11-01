@@ -11,6 +11,11 @@ body {
     scroll-behavior: smooth;
 }
 
+*::selection {
+    color: white;
+    background-color: #d85454;
+}
+
 
 .container {
     padding: 0 16px;
